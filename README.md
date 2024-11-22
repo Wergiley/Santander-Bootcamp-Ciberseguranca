@@ -1,2 +1,21 @@
-# Santander-Bootcamp-Ciberseguranca
-Os inscritos no bootcamp aprenderão sobre:  Princípios de Desenvolvimento Ágil e Colaborativo Desafios de Códigos Fundamentos de Cibersegurança Deep Web e Anonimato Testes de Invasão e Buscas por Vulnerabilidades Conceitos como Pantest, Phishing, Man in the Middle e Ransomware
+# Phishing para captura de senhas do Facebook
+
+### Ferramentas
+
+- Kali Linux
+- setoolkit
+
+### Configurando o Phishing no Kali Linux
+
+- Acesso root: ``` sudo su ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obtendo o endereço da máquina: ``` ifconfig ```
+- URL para clone: http://www.facebook.com
+
+### Resutados
+
+![Alt text](./passwd.png "Optional title")
